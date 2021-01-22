@@ -1,5 +1,3 @@
-### About
-
 <h1 align="center">
 <br>
   <img src="./assets/images/card.png" alt="Memory" width="120">
@@ -8,7 +6,7 @@
 Memory
 </h1>
 
-<p align="center">This is a Match Match game made to teste my skills at html, css, js.<br><br> I've learn a lot about how to manipulate arrays, objects, functions and the DOM.
+<p align="center">This is a memory game made to teste my skills at html, css, js.<br><br> I've learn a lot about how to manipulate arrays, objects, functions and the DOM.
 </p>
 
 <p align="center">
