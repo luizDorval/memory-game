@@ -16,7 +16,7 @@ Memory
 </p>
 
 [//]: # (Add your gifs/images here:)
-<div>
+<div align="center">
   <img src="./assets/images/first.gif" alt="demo" width="425">
 </div>
 
